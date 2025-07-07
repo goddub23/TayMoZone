@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to TayMoZone!</title>
+  <style>
+    body {
+      font-family: Comic Sans MS, sans-serif;
+      background-color: #f0f8ff;
+      text-align: center;
+      padding: 50px;
+    }
+    h1 {
+      color: #4CAF50;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to TayMoZone!</h1>
+  <p>Built by Massimo & Matteo 🚀</p>
+  <p>Stay tuned for our awesome projects!</p>
+</body>
+</html>
