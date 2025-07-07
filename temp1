@@ -1,22 +1,71 @@
-<!DOCTYPE html>
+
 <html>
+
 <head>
-  <title>Welcome to TayMoZone!</title>
-  <style>
-    body {
-      font-family: Comic Sans MS, sans-serif;
-      background-color: #f0f8ff;
-      text-align: center;
-      padding: 50px;
-    }
-    h1 {
-      color: #4CAF50;
-    }
-  </style>
+  
 </head>
+
 <body>
-  <h1>Welcome to TayMoZone!</h1>
-  <p>Built by Massimo & Matteo 🚀</p>
-  <p>Stay tuned for our awesome projects!</p>
+  <h1>School Supply List</h1>
+<ol>
+<li>Pencils</li>
+<li>Erasers</li>
+<li>Notebooks</li>
+</ol>
+
+<hr>
+<ul>
+<li>Markers</li>
+<li>Books</li>
+</ul>
+
+<hr>
+
+<h1>Drinks </h1>
+<ul>
+<li>Coffee</li>
+  <ol>
+<li>Black Coffee</li>
+<li>Latte</li>
+ <li>Mocha</li>   
+  </ol>
+  
+<li>Tea</li>
+<ol>
+<li>Boba Tea</li>
+<li>Jasmine Tea</li>
+  <li>Rose Tea</li>
+<li>Green Tea</li>
+<li>Black Tea</li>
+  
+</ol>
+  
+</ul>
+
+
+<hr>
+<h1>Nested Lists</h1>
+<ol>
+<li>Milk</li>
+
+<ul type = "circle">
+<li>Almond Milk</li>
+<li>Vanilla Milk</li>
+<li>Chocolate Milk</li>
+
+  <ul type = "square">
+<li>Fat Free</li>
+<li>Whole Milk</li>
+<li>1%</li>
+<li>0%</li>
+
+
+
+</ul>
+</ul>
+  
+</ol>
 </body>
+
+
 </html>
